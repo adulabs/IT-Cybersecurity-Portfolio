@@ -34,6 +34,8 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 - **Networking:** 2.5GbE + Wi-Fi 6E
 - **Operating System:** Windows 11 Home
 
+> Current build photo coming soon.
+
 ### Current System Specifications
 
 - **CPU:** Intel Core i9-13900K
