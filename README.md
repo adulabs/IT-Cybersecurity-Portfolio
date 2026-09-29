@@ -20,15 +20,13 @@ I also decided to go big with my first build and choose higher-end components th
 In 2023, I completed the build successfully. Since then, I have continued upgrading, maintaining, and troubleshooting the system, which has helped me gain hands-on experience with computer hardware, cooling, system configuration, performance, and problem-solving.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b27f50d-fe16-443a-9dbd-58c4b690e003"
-       width="48%" height="420"
-       style="object-fit: cover;" />
-
-  <img src="https://github.com/user-attachments/assets/65ccedf0-6d07-49fa-8732-beef8cba0395"
-       width="48%" height="420"
-       style="object-fit: cover;" />
+  <img width="48%" alt="Original PC Build" src="https://github.com/user-attachments/assets/7b27f50d-fe16-443a-9dbd-58c4b690e003" />
+  <img width="48%" alt="Original PC Build Close-up" src="https://github.com/user-attachments/assets/65ccedf0-6d07-49fa-8732-beef8cba0395" />
 </p>
 
+<p align="center">
+  <em>My completed first custom PC build in 2023.</em>
+</p>
 ### Original Build Specifications
 
 - **CPU:** Intel Core i9-13900K
