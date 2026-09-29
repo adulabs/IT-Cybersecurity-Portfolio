@@ -9,11 +9,11 @@ I’ve always been interested in technology, especially computer hardware, netwo
 
 My goal with this portfolio is to turn that interest into practical experience and continue developing the skills I’ll need for a career in IT and cybersecurity.
 
-## Contact Info
+## Contact
 
-- [LinkedIn]((https://www.linkedin.com/in/michael-adu-40047930b/))
-- Email: madu35121@gmail.com
-
+- LinkedIn: [LinkedIn]([YOUR-LINK](https://www.linkedin.com/in/michael-adu-40047930b/))
+- Email: YOUR-EMAIL
+  
 # Project 1: My Custom Pc Build 
 
 My interest in building a custom PC started because I was dissatisfied with console gaming and wanted more performance, flexibility, and a better overall experience.
