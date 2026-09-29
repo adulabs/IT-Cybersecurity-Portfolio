@@ -132,6 +132,15 @@ To fix the problem, I had to partially disassemble the motherboard so I could ac
 
 The networking upgrades gave me hands-on experience with PCIe network adapters, wireless networking hardware, driver installation, link-speed verification, connectivity troubleshooting, and careful motherboard disassembly and repair. It also helped me better understand how hardware limitations can create bottlenecks even when the internet connection itself is much faster.
 
+<p align="center">
+  <img width="48%" alt="10GbE Wired Speed Test" src="https://github.com/user-attachments/assets/a5532e6e-2f8e-4a61-9cd5-8bf324ce2ff4" />
+  <img width="48%" alt="Wi-Fi 7 Speed Test" src="https://github.com/user-attachments/assets/5b55076d-20cf-4449-9e22-8fd89337e594" />
+</p>
+
+<p align="center">
+  <em>10GbE wired and Wi-Fi 7 performance after the networking upgrades.</em>
+</p>
+
 # Project 2: Personal Homelab
 
 ### Coming Soon !!!
