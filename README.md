@@ -1,7 +1,7 @@
 # Michael's IT/Cybersecurity Portfolio
 A collection of my personal IT projects as I work toward a career in networking and cybersecurity. Starting with my custom PC build and growing into homelab, virtualization, and security labs, with documentation of what I built, what broke, and how I fixed it.
 
-### About Me
+## About Me
 
 I created this portfolio to document my progress as I continue building my skills in IT and cybersecurity. I want a place where I can show the projects, labs, and hands-on experience I gain outside of the classroom while also tracking how much I improve over time.
 
