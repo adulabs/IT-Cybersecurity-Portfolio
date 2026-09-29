@@ -20,7 +20,7 @@ I also decided to go big with my first build and choose higher-end components th
 In 2023, I completed the build successfully. Since then, I have continued upgrading, maintaining, and troubleshooting the system, which has helped me gain hands-on experience with computer hardware, cooling, system configuration, performance, and problem-solving.
 
 <p align="center">
-  <img width="50%" alt="Original PC Build" src="https://github.com/user-attachments/assets/7b27f50d-fe16-443a-9dbd-58c4b690e003" />
+  <img width="49%" alt="Original PC Build" src="https://github.com/user-attachments/assets/7b27f50d-fe16-443a-9dbd-58c4b690e003" />
 </p>
 
 <p align="center">
@@ -110,8 +110,8 @@ Since I did not have any important data that needed to be recovered from the ori
 This experience taught me the importance of isolating variables during troubleshooting and not assuming that the component showing the symptoms is necessarily the root cause.
 
 <p align="center">
-  <img width="50%" alt="Troubleshooting Screenshot 1" src="https://github.com/user-attachments/assets/96827de0-944a-4008-94a7-c53483bd044a" />
-  <img width="50%" alt="Troubleshooting Screenshot 2" src="https://github.com/user-attachments/assets/72b43517-c6ad-4e80-846c-03ca07a12814" />
+  <img width="49%" alt="Troubleshooting Screenshot 1" src="https://github.com/user-attachments/assets/96827de0-944a-4008-94a7-c53483bd044a" />
+  <img width="49%" alt="Troubleshooting Screenshot 2" src="https://github.com/user-attachments/assets/72b43517-c6ad-4e80-846c-03ca07a12814" />
 </p>
 
 <p align="center">
@@ -133,8 +133,8 @@ To fix the problem, I had to partially disassemble the motherboard so I could ac
 The networking upgrades gave me hands-on experience with PCIe network adapters, wireless networking hardware, driver installation, link-speed verification, connectivity troubleshooting, and careful motherboard disassembly and repair. It also helped me better understand how hardware limitations can create bottlenecks even when the internet connection itself is much faster.
 
 <p align="center">
-  <img width="50%" alt="10GbE Wired Speed Test" src="https://github.com/user-attachments/assets/a5532e6e-2f8e-4a61-9cd5-8bf324ce2ff4" />
-  <img width="50%" alt="Wi-Fi 7 Speed Test" src="https://github.com/user-attachments/assets/5b55076d-20cf-4449-9e22-8fd89337e594" />
+  <img width="49%" alt="10GbE Wired Speed Test" src="https://github.com/user-attachments/assets/a5532e6e-2f8e-4a61-9cd5-8bf324ce2ff4" />
+  <img width="49%" alt="Wi-Fi 7 Speed Test" src="https://github.com/user-attachments/assets/5b55076d-20cf-4449-9e22-8fd89337e594" />
 </p>
 
 <p align="center">
