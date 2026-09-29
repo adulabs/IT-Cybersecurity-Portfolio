@@ -149,4 +149,9 @@ The networking upgrades gave me hands-on experience with PCIe network adapters, 
 # Project 2: Personal Homelab
 
 ### Coming Soon !!!
- 
+
+
+#Contact
+
+- LinkedIn: [Michael Adu](https://www.linkedin.com/in/michael-adu-40047930b/)
+- Email: Madu35121@gmail.com
