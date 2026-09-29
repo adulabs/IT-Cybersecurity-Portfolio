@@ -34,19 +34,11 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 
 ### Custom Water-Cooling Loop
 
-### Major Upgrades & Troubleshooting
+One of the biggest challenges I took on with my first PC build was installing a full custom water-cooling loop. Since I had never built a PC before, this added another layer of difficulty to the project and required me to learn much more than basic component installation.
 
-#### Motherboard Upgrade
+I researched how custom loops work, including pumps, reservoirs, radiators, tubing, fittings, coolant flow, leak testing, and maintenance. After planning the loop and choosing the components, I successfully assembled and tested the cooling system as part of my first build.
 
-#### Intel Core i9-13900K RMA
-
-#### SSD Troubleshooting & Repurposing
-
-#### Networking Upgrades
-
-#### Cooling System Upgrades
-
-### What I Learned
+Since completing the original loop, I have continued improving the cooling setup by upgrading the fans and fan-control system, pump/reservoir, CPU water block, tubing, and fittings. Maintaining the loop has also given me hands-on experience with draining and refilling the system, replacing components, checking connections, and troubleshooting cooling-related issues.
 
 # Project 2: Personal Homelab
 
