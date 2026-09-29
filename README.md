@@ -21,12 +21,13 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 
 <p align="center">
   <img width="48%" alt="Original PC Build" src="https://github.com/user-attachments/assets/7b27f50d-fe16-443a-9dbd-58c4b690e003" />
-  <img width="48%" alt="Original PC Build Close-up" src="https://github.com/user-attachments/assets/65ccedf0-6d07-49fa-8732-beef8cba0395" />
+  <img width="48%" alt="Original PC Build Close-up" src="https://github.com/user-attachments/assets/055f6de3-b216-4923-9f52-6a03091bb29a" />
 </p>
 
 <p align="center">
   <em>My completed first custom PC build in 2023.</em>
 </p>
+
 ### Original Build Specifications
 
 - **CPU:** Intel Core i9-13900K
