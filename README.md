@@ -52,7 +52,7 @@ The upgrade gave me more experience with fully disassembling and rebuilding the 
 
 #### Intel Core i9-13900K RMA
 
-**Root Cause:** CPU degradation related to the Intel 13th-generation desktop instability issue.
+- **Root Cause:** CPU degradation related to the Intel 13th-generation desktop instability issue.
 
 Over time, my original Intel Core i9-13900K began developing serious stability issues. I experienced crashes, reduced benchmark performance, and instability even when the processor was running at default settings. Because the symptoms could have been caused by several different parts of the system, I did not immediately assume that the CPU was the problem.
 
@@ -69,6 +69,22 @@ After receiving the replacement CPU, I took additional steps to reduce the risk 
 I kept the i5-14600KF as a spare processor, which also gives me a known-working CPU that I can use in the future if I ever need to isolate a processor or motherboard-related issue again.
 
 This experience taught me a lot about systematic hardware troubleshooting, isolating variables, BIOS configuration, CPU power management, warranty replacement, and the value of having known-good spare hardware available when diagnosing a system.
+
+#### SSD Troubleshooting & Repurposing
+
+- **Root Cause:** System instability from my degrading Intel Core i9-13900K caused Windows to crash and corrupt part of the operating system responsible for booting.
+
+At the time, my 2TB NVMe SSD was being used as my primary Windows boot drive. Following one of the system crashes, the PC stopped booting normally and would instead enter the BIOS or Windows Automatic Repair. Attempts to boot from the drive resulted in Automatic Repair failing and eventually produced a `BAD_SYSTEM_CONFIG_INFO` blue screen. Because of these symptoms, I initially suspected that the SSD itself was the source of the problem.
+
+To get the system running again, I purchased a second NVMe SSD, installed a fresh copy of Windows on it, and began using it as my new primary boot drive.
+
+With both drives installed at the same time, the motherboard detected both of them, and I was able to boot into the fresh Windows installation while keeping the original SSD connected as a secondary drive. From there, I was able to access the original SSD and read the data stored on it.
+
+This showed that the original SSD hardware was still functional and that the issue was instead with the Windows installation on the drive.
+
+Since I did not have any important data that needed to be recovered from the original drive, I wiped and reformatted it, then repurposed it for additional storage.
+
+This experience taught me the importance of isolating variables during troubleshooting and not assuming that the component showing the symptoms is necessarily the root cause.
 
 # Project 2: Personal Homelab
 
