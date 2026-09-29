@@ -83,9 +83,9 @@ I worked through multiple troubleshooting steps to isolate the issue. This inclu
 
 Even after those steps, the system continued to experience instability. The fact that the processor was still unstable at default settings, combined with the performance degradation I was seeing, strongly pointed toward the CPU itself.
 
-I submitted the i9-13900K to Intel for RMA and temporarily purchased an Intel Core i5-14600KF so I could continue using the system while the 13900K was away. This also gave me another way to verify that the rest of the system was functioning properly. With the 14600KF installed, the system was usable while I waited for the replacement processor.
+I submitted the i9-13900K to Intel for RMA and temporarily purchased an Intel Core i5-14600KF, so I could continue using the system while the 13900K was away. This also gave me another way to verify that the rest of the system was functioning properly. With the 14600KF installed, the system was usable while I waited for the replacement processor.
 
-Intel approved the RMA and sent me a replacement i9-13900K. After reinstalling the replacement chip in the same system, the crashes and instability were resolved and performance returned to normal. This confirmed that the original processor had degraded.
+Intel approved the RMA and sent me a replacement i9-13900K. After reinstalling the replacement chip in the same system, the crashes and instability were resolved, and performance returned to normal. This confirmed that the original processor had degraded.
 
 After receiving the replacement CPU, I took additional steps to reduce the risk of the same problem happening again. I updated the motherboard BIOS to include the newer Intel stability fixes, configured controlled CPU power limits instead of allowing unrestricted motherboard settings, and continued monitoring temperatures, power consumption, and stability under load. I also used benchmarks and stress tests to verify that the replacement CPU was operating consistently and within the limits I wanted.
 
@@ -117,6 +117,20 @@ This experience taught me the importance of isolating variables during troublesh
 <p align="center">
   <em>Windows boot errors encountered during SSD troubleshooting.</em>
 </p>
+
+#### Networking Upgrades
+
+I upgraded the networking capabilities of my PC after my household moved to a 7Gb internet plan. At that point, the system's built-in 2.5GbE connection became a limitation because it could not fully take advantage of the available bandwidth. I wanted the PC to better match the speed of the new connection, so I upgraded both the wired and wireless networking.
+
+For wired networking, I installed a 10GbE PCIe network adapter. This gave the system significantly more bandwidth than the motherboard's built-in 2.5GbE port and also provided additional headroom for future local network upgrades. After installing the adapter, I configured the required drivers, checked the network settings, and verified that the system was negotiating at the expected link speed.
+
+The motherboard originally supported Wi-Fi 6E, but I decided to upgrade the wireless connection to Wi-Fi 7 for improved wireless performance and newer networking capabilities.
+
+During the Wi-Fi 7 upgrade, I ran into a more complicated hardware issue. One of the motherboard's internal antenna wires had broken near the connector, which prevented the new wireless hardware from working correctly.
+
+To fix the problem, I had to partially disassemble the motherboard so I could access the wireless module and antenna connections. I replaced the damaged antenna connection, reassembled the motherboard, and then tested the wireless connection again to confirm that the repair was successful and that the Wi-Fi 7 upgrade was functioning properly.
+
+The networking upgrades gave me hands-on experience with PCIe network adapters, wireless networking hardware, driver installation, link-speed verification, connectivity troubleshooting, and careful motherboard disassembly and repair. It also helped me better understand how hardware limitations can create bottlenecks even when the internet connection itself is much faster.
 
 # Project 2: Personal Homelab
 
