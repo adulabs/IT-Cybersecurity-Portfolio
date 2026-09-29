@@ -21,6 +21,8 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 
 <img width="1152" height="1536" alt="image" src="https://github.com/user-attachments/assets/91d93524-5ac1-4b36-9b8d-5b134f77417f" />
 
+<img width="1260" height="1536" alt="image" src="https://github.com/user-attachments/assets/03e7820f-9112-4c55-8904-1a9db3d673e8" />
+
 ### Original Build Specifications
 
 - **CPU:** Intel Core i9-13900K
