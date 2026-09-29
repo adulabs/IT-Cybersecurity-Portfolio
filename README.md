@@ -19,6 +19,8 @@ I also decided to go big with my first build and choose higher-end components th
 
 In 2023, I completed the build successfully. Since then, I have continued upgrading, maintaining, and troubleshooting the system, which has helped me gain hands-on experience with computer hardware, cooling, system configuration, performance, and problem-solving.
 
+<img width="1152" height="1536" alt="image" src="https://github.com/user-attachments/assets/91d93524-5ac1-4b36-9b8d-5b134f77417f" />
+
 ### Current System Specifications
 
 - **CPU:** Intel Core i9-13900K
