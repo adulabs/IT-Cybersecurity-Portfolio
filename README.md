@@ -21,6 +21,19 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 
 <img width="1152" height="1536" alt="image" src="https://github.com/user-attachments/assets/91d93524-5ac1-4b36-9b8d-5b134f77417f" />
 
+### Original Build Specifications
+
+- **CPU:** Intel Core i9-13900K
+- **GPU:** NVIDIA GeForce RTX 4080 Founders Edition
+- **Motherboard:** MSI MAG Z690 Tomahawk
+- **Memory:** 32GB DDR5-6000
+- **Storage:** 2TB NVMe SSD
+- **Case:** HYTE Y60
+- **Cooling:** Custom water-cooling loop
+- **Power Supply:** Gigabyte 1000W PSU
+- **Networking:** 2.5GbE + Wi-Fi 6E
+- **Operating System:** Windows 11 Home
+
 ### Current System Specifications
 
 - **CPU:** Intel Core i9-13900K
