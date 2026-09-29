@@ -36,6 +36,17 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 
 ### Major Upgrades & Troubleshooting
 
+#### Motherboard Upgrade
+
+#### Intel Core i9-13900K RMA
+
+#### SSD Troubleshooting & Repurposing
+
+#### Networking Upgrades
+
+#### Cooling System Upgrades
+
+### What I Learned
 
 # Project 2: Personal Homelab
 
