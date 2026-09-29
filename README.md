@@ -129,6 +129,25 @@ During the inspection, I discovered that one of the CPU power extension cables h
 To be safe, I replaced the power supply before using the system again. After installing the new PSU, I powered the system back on and tested it to confirm that everything was operating normally.
 
 This experience taught me the importance of recognizing physical warning signs such as unusual smells, excessive heat, or discoloration during high-load testing. It also gave me more hands-on experience with diagnosing power-related hardware issues and responding cautiously when there is a risk of component damage.
+
+#### GPU Overclocking & Performance Tuning
+
+I also experimented with overclocking my NVIDIA GeForce RTX 4080 Founders Edition to improve performance and learn more about GPU tuning.
+
+Using MSI Afterburner, I increased the core clock by +170 MHz and the memory clock by +800 MHz while raising the power limit to 110%. I tested the GPU under gaming and benchmark workloads while monitoring temperatures, stability, clock behavior, and overall performance.
+
+The goal was to find a stable overclock that improved performance without introducing crashes, visual artifacts, or excessive temperatures.
+
+This gave me hands-on experience with GPU performance tuning, thermal monitoring, stability testing, power limits, and understanding the relationship between clock speed, power consumption, temperature, and system stability.
+
+<p align="center">
+  <img width="500" alt="RTX 4080 FE Overclock Settings" src="https://github.com/user-attachments/assets/cb2d0b8b-ef1f-4761-8086-1e3b67d1e0a4" />
+</p>
+
+<p align="center">
+  <em>MSI Afterburner settings used for my RTX 4080 Founders Edition overclock.</em>
+</p>
+
 #### Networking Upgrades
 
 I upgraded the networking capabilities of my PC after my household moved to a 7Gbps internet plan. At that point, the system's built-in 2.5GbE connection became a limitation because it could not fully take advantage of the available bandwidth. I wanted the PC to better match the speed of the new connection, so I upgraded both the wired and wireless networking.
@@ -151,6 +170,7 @@ The networking upgrades gave me hands-on experience with PCIe network adapters, 
 <p align="center">
   <em>10GbE wired and Wi-Fi 7 performance after the networking upgrades.</em>
 </p>
+
 
 # Project 2: Personal Homelab
 
