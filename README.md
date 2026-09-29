@@ -19,9 +19,14 @@ I also decided to go big with my first build and choose higher-end components th
 
 In 2023, I completed the build successfully. Since then, I have continued upgrading, maintaining, and troubleshooting the system, which has helped me gain hands-on experience with computer hardware, cooling, system configuration, performance, and problem-solving.
 
-<img width="1152" height="1536" alt="image" src="https://github.com/user-attachments/assets/91d93524-5ac1-4b36-9b8d-5b134f77417f" />
+<p align="center">
+  <img width="48%" alt="Original PC Build" src="https://github.com/user-attachments/assets/7b27f50d-fe16-443a-9dbd-58c4b690e003" />
+  <img width="48%" alt="Original PC Build " src="https://github.com/user-attachments/assets/65ccedf0-6d07-49fa-8732-beef8cba0395" />
+</p>
 
-<img width="1260" height="1536" alt="image" src="https://github.com/user-attachments/assets/03e7820f-9112-4c55-8904-1a9db3d673e8" />
+<p align="center">
+  <em>My completed first custom PC build in 2023.</em>
+</p>
 
 ### Original Build Specifications
 
