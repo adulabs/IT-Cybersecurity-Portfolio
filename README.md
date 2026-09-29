@@ -1,7 +1,7 @@
 # Michael's IT/Cybersecurity Portfolio
 A collection of my personal IT projects as I work toward a career in networking and cybersecurity. Starting with my custom PC build and growing into homelab, virtualization, and security labs, with documentation of what I built, what broke, and how I fixed it.
 
-## About Me
+### About Me
 
 I created this portfolio to document my progress as I continue building my skills in IT and cybersecurity. I want a place where I can show the projects, labs, and hands-on experience I gain outside of the classroom while also tracking how much I improve over time.
 
@@ -63,9 +63,9 @@ I researched how custom loops work, including pumps, reservoirs, radiators, tubi
 
 Since completing the original loop, I have continued improving the cooling setup by upgrading the fans and fan-control system, pump/reservoir, CPU water block, tubing, and fittings. Maintaining the loop has also given me hands-on experience with draining and refilling the system, replacing components, checking connections, and troubleshooting cooling-related issues.
 
-### Major Upgrades & Troubleshooting
+## Major Upgrades & Troubleshooting
 
-#### Motherboard Upgrade
+### Motherboard Upgrade
 
 I replaced my original MSI MAG Z690 Tomahawk with an NZXT N7 Z790 after finding a good deal on the board. I also preferred the cleaner design of the N7 and felt that it matched the overall aesthetics of my build better.
 
@@ -73,7 +73,7 @@ After installing the new motherboard, I updated the BIOS and went through the ne
 
 The upgrade gave me more experience with fully disassembling and rebuilding the system, reconnecting components, updating firmware, checking BIOS settings, and verifying that everything was working correctly after the swap.
 
-#### Intel Core i9-13900K RMA
+### Intel Core i9-13900K RMA
 
 - **Root Cause:** CPU degradation related to the Intel 13th-generation desktop instability issue.
 
@@ -93,7 +93,7 @@ I kept the i5-14600KF as a spare processor, which also gives me a known-working 
 
 This experience taught me a lot about systematic hardware troubleshooting, isolating variables, BIOS configuration, CPU power management, warranty replacement, and the value of having known-good spare hardware available when diagnosing a system.
 
-#### SSD Troubleshooting & Repurposing
+### SSD Troubleshooting & Repurposing
 
 - **Root Cause:** System instability from my degrading Intel Core i9-13900K caused Windows to crash and corrupt part of the operating system responsible for booting.
 
@@ -118,7 +118,7 @@ This experience taught me the importance of isolating variables during troublesh
   <em>Windows boot errors encountered during SSD troubleshooting.</em>
 </p>
 
-#### PSU Cable Failure
+### PSU Cable Failure
 
 - **Root Cause:** Failure of a CPU power extension cable under heavy system load, which caused the cable to overheat and melt.
 
@@ -130,7 +130,7 @@ To be safe, I replaced the power supply before using the system again. After ins
 
 This experience taught me the importance of recognizing physical warning signs such as unusual smells, excessive heat, or discoloration during high-load testing. It also gave me more hands-on experience with diagnosing power-related hardware issues and responding cautiously when there is a risk of component damage.
 
-#### GPU Overclocking & Performance Tuning
+### GPU Overclocking & Performance Tuning
 
 I also experimented with overclocking my NVIDIA GeForce RTX 4080 Founders Edition to improve performance and learn more about GPU tuning.
 
@@ -148,7 +148,7 @@ This gave me hands-on experience with GPU performance tuning, thermal monitoring
   <em>MSI Afterburner settings used for my RTX 4080 Founders Edition overclock.</em>
 </p>
 
-#### Networking Upgrades
+### Networking Upgrades
 
 I upgraded the networking capabilities of my PC after my household moved to a 7Gbps internet plan. At that point, the system's built-in 2.5GbE connection became a limitation because it could not fully take advantage of the available bandwidth. I wanted the PC to better match the speed of the new connection, so I upgraded both the wired and wireless networking.
 
