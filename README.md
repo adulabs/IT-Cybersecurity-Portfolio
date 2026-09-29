@@ -143,7 +143,7 @@ The networking upgrades gave me hands-on experience with PCIe network adapters, 
 
 # Project 2: Personal Homelab
 
-### * Coming Soon *!!!
+### *Coming Soon* !!!
 
 
 # Contact
