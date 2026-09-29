@@ -120,7 +120,7 @@ This experience taught me the importance of isolating variables during troublesh
 
 #### Networking Upgrades
 
-I upgraded the networking capabilities of my PC after my household moved to a 7Gb internet plan. At that point, the system's built-in 2.5GbE connection became a limitation because it could not fully take advantage of the available bandwidth. I wanted the PC to better match the speed of the new connection, so I upgraded both the wired and wireless networking.
+I upgraded the networking capabilities of my PC after my household moved to a 7Gbps internet plan. At that point, the system's built-in 2.5GbE connection became a limitation because it could not fully take advantage of the available bandwidth. I wanted the PC to better match the speed of the new connection, so I upgraded both the wired and wireless networking.
 
 For wired networking, I installed a 10GbE PCIe network adapter. This gave the system significantly more bandwidth than the motherboard's built-in 2.5GbE port and also provided additional headroom for future local network upgrades. After installing the adapter, I configured the required drivers, checked the network settings, and verified that the system was negotiating at the expected link speed.
 
