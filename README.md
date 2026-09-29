@@ -34,8 +34,6 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 
 ### Custom Water-Cooling Loop
 
-<u>Motherboard Upgrade</u>
-
 One of the biggest challenges I took on with my first PC build was installing a full custom water-cooling loop. Since I had never built a PC before, this added another layer of difficulty to the project and required me to learn much more than basic component installation.
 
 I researched how custom loops work, including pumps, reservoirs, radiators, tubing, fittings, coolant flow, leak testing, and maintenance. After planning the loop and choosing the components, I successfully assembled and tested the cooling system as part of my first build.
@@ -43,6 +41,14 @@ I researched how custom loops work, including pumps, reservoirs, radiators, tubi
 Since completing the original loop, I have continued improving the cooling setup by upgrading the fans and fan-control system, pump/reservoir, CPU water block, tubing, and fittings. Maintaining the loop has also given me hands-on experience with draining and refilling the system, replacing components, checking connections, and troubleshooting cooling-related issues.
 
 ### Major Upgrades & Troubleshooting
+
+#### Motherboard Upgrade
+
+I replaced my original MSI MAG Z690 Tomahawk with an NZXT N7 Z790 after finding a good deal on the board. I also preferred the cleaner design of the N7 and felt that it matched the overall aesthetics of my build better.
+
+After installing the new motherboard, I updated the BIOS and went through the necessary system configuration to make sure the hardware was recognized and operating correctly.
+
+The upgrade gave me more experience with fully disassembling and rebuilding the system, reconnecting components, updating firmware, checking BIOS settings, and verifying that everything was working correctly after the swap.
 
 # Project 2: Personal Homelab
 
