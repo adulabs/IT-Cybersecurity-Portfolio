@@ -50,6 +50,26 @@ After installing the new motherboard, I updated the BIOS and went through the ne
 
 The upgrade gave me more experience with fully disassembling and rebuilding the system, reconnecting components, updating firmware, checking BIOS settings, and verifying that everything was working correctly after the swap.
 
+#### Intel Core i9-13900K RMA
+
+**Root Cause:** CPU degradation related to the Intel 13th-generation desktop instability issue.
+
+Over time, my original Intel Core i9-13900K began developing serious stability issues. I experienced crashes, reduced benchmark performance, and instability even when the processor was running at default settings. Because the symptoms could have been caused by several different parts of the system, I did not immediately assume that the CPU was the problem.
+
+I worked through multiple troubleshooting steps to isolate the issue. This included updating the BIOS, returning the motherboard to default CPU settings, testing different memory configurations, reinstalling Windows, reseating hardware, checking power delivery, and verifying that the custom cooling loop was operating properly. I also monitored temperatures and benchmark performance to see whether the problem changed under different conditions.
+
+Even after those steps, the system continued to experience instability. The fact that the processor was still unstable at default settings, combined with the performance degradation I was seeing, strongly pointed toward the CPU itself.
+
+I submitted the i9-13900K to Intel for RMA and temporarily purchased an Intel Core i5-14600KF so I could continue using the system while the 13900K was away. This also gave me another way to verify that the rest of the system was functioning properly. With the 14600KF installed, the system was usable while I waited for the replacement processor.
+
+Intel approved the RMA and sent me a replacement i9-13900K. After reinstalling the replacement chip in the same system, the crashes and instability were resolved and performance returned to normal. This confirmed that the original processor had degraded.
+
+After receiving the replacement CPU, I took additional steps to reduce the risk of the same problem happening again. I updated the motherboard BIOS to include the newer Intel stability fixes, configured controlled CPU power limits instead of allowing unrestricted motherboard settings, and continued monitoring temperatures, power consumption, and stability under load. I also used benchmarks and stress tests to verify that the replacement CPU was operating consistently and within the limits I wanted.
+
+I kept the i5-14600KF as a spare processor, which also gives me a known-working CPU that I can use in the future if I ever need to isolate a processor or motherboard-related issue again.
+
+This experience taught me a lot about systematic hardware troubleshooting, isolating variables, BIOS configuration, CPU power management, warranty replacement, and the value of having known-good spare hardware available when diagnosing a system.
+
 # Project 2: Personal Homelab
 
 ### Coming Soon !!!
