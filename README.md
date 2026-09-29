@@ -32,7 +32,7 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 - **Networking:** 10GbE + Wi-Fi 7
 - **Operating System:** Windows 11 Pro
 
-### Custom Water-Cooling Loop
+### <u> Custom Water-Cooling Loop <u/>
 
 One of the biggest challenges I took on with my first PC build was installing a full custom water-cooling loop. Since I had never built a PC before, this added another layer of difficulty to the project and required me to learn much more than basic component installation.
 
