@@ -12,5 +12,5 @@ My goal with this portfolio is to turn that interest into practical experience a
 <h1> Project 1: My Custom Pc Build </h1>
 
 <h1> Project 2: Personal Homelab </h1>
-## *Coming Soon*
+*Coming Soon*
  
