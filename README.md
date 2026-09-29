@@ -8,11 +8,6 @@ I created this portfolio to document my progress as I continue building my skill
 I’ve always been interested in technology, especially computer hardware, networking, troubleshooting, virtualization, and understanding how systems work behind the scenes. I enjoy learning by actually building, testing, fixing, and experimenting with things rather than only reading about them.
 
 My goal with this portfolio is to turn that interest into practical experience and continue developing the skills I’ll need for a career in IT and cybersecurity.
-
-### Contact
-
-- LinkedIn: [Michael Adu](https://www.linkedin.com/in/michael-adu-40047930b/)
-- Email: Madu35121@gmail.com
   
 # Project 1: My Custom Pc Build 
 
@@ -151,7 +146,7 @@ The networking upgrades gave me hands-on experience with PCIe network adapters, 
 ### Coming Soon !!!
 
 
-#Contact
+# Contact
 
 - LinkedIn: [Michael Adu](https://www.linkedin.com/in/michael-adu-40047930b/)
 - Email: Madu35121@gmail.com
