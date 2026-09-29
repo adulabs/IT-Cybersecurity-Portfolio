@@ -176,7 +176,7 @@ The networking upgrades gave me hands-on experience with PCIe network adapters, 
 
 ### *Coming Soon* !!!
 
-# Project 3: Windows Server & Active Directory Environment 
+# Project 3: Proxmox Virtualization Environment 
 
 ### *Coming Soon* !!!
 
