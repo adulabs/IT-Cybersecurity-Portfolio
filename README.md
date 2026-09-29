@@ -22,13 +22,13 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 ### Original Build Specifications
 
 - **CPU:** Intel Core i9-13900K
-- **GPU:** NVIDIA GeForce RTX 4080 Founders Edition
+- **GPU:** NVIDIA GeForce RTX 4080 FE
 - **Motherboard:** MSI MAG Z690 Tomahawk
 - **RAM:** 32GB DDR5-6000
 - **Storage:** 2TB NVMe SSD
 - **Case:** HYTE Y60
 - **Cooling:** Custom water-cooling loop
-- **Power Supply:** Gigabyte 1000W PG5
+- **Power Supply:** Gigabyte 1000W PSU
 
 # Project 2: Personal Homelab
 
