@@ -9,6 +9,13 @@ I’ve always been interested in technology, especially computer hardware, netwo
 
 My goal with this portfolio is to turn that interest into practical experience and continue developing the skills I’ll need for a career in IT and cybersecurity.
 
+## Contact
+
+Feel free to connect with me:
+
+- [LinkedIn](PASTE-LINKEDIN-LINK-HERE)
+- Email: your.email@example.com
+
 # Project 1: My Custom Pc Build 
 
 My interest in building a custom PC started because I was dissatisfied with console gaming and wanted more performance, flexibility, and a better overall experience.
