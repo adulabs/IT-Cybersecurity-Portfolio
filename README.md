@@ -9,11 +9,11 @@ I’ve always been interested in technology, especially computer hardware, netwo
 
 My goal with this portfolio is to turn that interest into practical experience and continue developing the skills I’ll need for a career in IT and cybersecurity.
 
-<h1> Project 1: My Custom Pc Build </h1>
+# Project 1: My Custom Pc Build 
 
 Hello 
 
-<h1> Project 2: Personal Homelab </h1>
+# Project 2: Personal Homelab
 
 *Coming Soon*
  
