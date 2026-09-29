@@ -31,7 +31,7 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 - **Power Supply:** 1000W PSU
 - **Networking:** 10GbE + Wi-Fi 7
 - **Operating System:** Windows 11 Pro
-- 
+
 # Project 2: Personal Homelab
 
 ### Coming Soon !!!
