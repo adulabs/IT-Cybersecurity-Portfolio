@@ -178,6 +178,10 @@ The networking upgrades gave me hands-on experience with PCIe network adapters, 
 
 # Project 3: Windows Server & Active Directory Environment 
 
+### *Coming Soon* !!!
+
+
+
 # Contact
 
 - LinkedIn: [Michael Adu](https://www.linkedin.com/in/michael-adu-40047930b/)
