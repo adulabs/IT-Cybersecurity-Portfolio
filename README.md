@@ -40,6 +40,8 @@ I researched how custom loops work, including pumps, reservoirs, radiators, tubi
 
 Since completing the original loop, I have continued improving the cooling setup by upgrading the fans and fan-control system, pump/reservoir, CPU water block, tubing, and fittings. Maintaining the loop has also given me hands-on experience with draining and refilling the system, replacing components, checking connections, and troubleshooting cooling-related issues.
 
+### Major Upgrades & Troubleshooting
+
 # Project 2: Personal Homelab
 
 ### Coming Soon !!!
