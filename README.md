@@ -86,6 +86,11 @@ Since I did not have any important data that needed to be recovered from the ori
 
 This experience taught me the importance of isolating variables during troubleshooting and not assuming that the component showing the symptoms is necessarily the root cause.
 
+<img width="1536" height="1152" alt="image" src="https://github.com/user-attachments/assets/96827de0-944a-4008-94a7-c53483bd044a" />
+<img width="1536" height="1152" alt="image" src="https://github.com/user-attachments/assets/72b43517-c6ad-4e80-846c-03ca07a12814" />
+
+
+
 # Project 2: Personal Homelab
 
 ### Coming Soon !!!
