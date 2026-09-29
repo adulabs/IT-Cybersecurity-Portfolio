@@ -11,7 +11,13 @@ My goal with this portfolio is to turn that interest into practical experience a
 
 # Project 1: My Custom Pc Build 
 
-Hello 
+My interest in building a custom PC started because I was dissatisfied with console gaming and wanted more performance, flexibility, and a better overall experience.
+
+At the time, I had little to no knowledge about PC hardware or how to build a computer. Instead of buying a prebuilt system, I decided to learn how to build one myself. I spent about a year researching components, comparing parts, watching build guides, and learning how everything worked together.
+
+I also decided to go big with my first build and choose higher-end components that would give me room to upgrade and keep the system relevant for years. Rather than stopping at a standard air- or AIO-cooled build, I challenged myself to install a full custom water-cooling loop on my very first PC.
+
+In 2023, I completed the build successfully. Since then, I have continued upgrading, maintaining, and troubleshooting the system, which has helped me gain hands-on experience with computer hardware, cooling, system configuration, performance, and problem-solving.
 
 # Project 2: Personal Homelab
 
