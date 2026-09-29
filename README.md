@@ -19,6 +19,17 @@ I also decided to go big with my first build and choose higher-end components th
 
 In 2023, I completed the build successfully. Since then, I have continued upgrading, maintaining, and troubleshooting the system, which has helped me gain hands-on experience with computer hardware, cooling, system configuration, performance, and problem-solving.
 
+### Original Build Specifications
+
+- **CPU:** Intel Core i9-13900K
+- **GPU:** NVIDIA GeForce RTX 4080 Founders Edition
+- **Motherboard:** MSI MAG Z690 Tomahawk
+- **RAM:** 32GB DDR5-6000
+- **Storage:** 2TB NVMe SSD
+- **Case:** HYTE Y60
+- **Cooling:** Custom water-cooling loop
+- **Power Supply:** Gigabyte 1000W PG5
+
 # Project 2: Personal Homelab
 
 ### Coming Soon !!!
