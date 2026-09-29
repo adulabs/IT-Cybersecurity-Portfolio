@@ -120,6 +120,8 @@ This experience taught me the importance of isolating variables during troublesh
 
 #### PSU Cable Failure
 
+- **Root Cause:** Failure of a CPU power extension cable under heavy system load, which caused the cable to overheat and melt.
+
 While running a benchmark, I noticed a strong burning-plastic smell coming from the system. I immediately stopped the test, shut the PC down, and inspected the hardware to find the source of the issue.
 
 During the inspection, I discovered that one of the CPU power extension cables had melted. I removed the damaged cable and checked the surrounding connectors for any obvious signs of additional damage.
@@ -127,7 +129,6 @@ During the inspection, I discovered that one of the CPU power extension cables h
 To be safe, I replaced the power supply before using the system again. After installing the new PSU, I powered the system back on and tested it to confirm that everything was operating normally.
 
 This experience taught me the importance of recognizing physical warning signs such as unusual smells, excessive heat, or discoloration during high-load testing. It also gave me more hands-on experience with diagnosing power-related hardware issues and responding cautiously when there is a risk of component damage.
-
 #### Networking Upgrades
 
 I upgraded the networking capabilities of my PC after my household moved to a 7Gbps internet plan. At that point, the system's built-in 2.5GbE connection became a limitation because it could not fully take advantage of the available bandwidth. I wanted the PC to better match the speed of the new connection, so I upgraded both the wired and wireless networking.
