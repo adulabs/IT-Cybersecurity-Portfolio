@@ -11,7 +11,7 @@ My goal with this portfolio is to turn that interest into practical experience a
 
 ### Contact
 
-- **LinkedIn:** [Linked In](https://www.linkedin.com/in/michael-adu-40047930b/))
+- **LinkedIn:** (https://www.linkedin.com/in/michael-adu-40047930b/)
 - **Email:** Madu35121@gmail.com
 
 # Project 1: My Custom Pc Build 
