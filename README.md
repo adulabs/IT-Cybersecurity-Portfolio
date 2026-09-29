@@ -32,6 +32,11 @@ In 2023, I completed the build successfully. Since then, I have continued upgrad
 - **Networking:** 10GbE + Wi-Fi 7
 - **Operating System:** Windows 11 Pro
 
+### Custom Water-Cooling Loop
+
+### Major Upgrades & Troubleshooting
+
+
 # Project 2: Personal Homelab
 
 ### Coming Soon !!!
